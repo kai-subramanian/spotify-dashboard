@@ -1,0 +1,3 @@
+config/secrets.cfg
+.cache
+__pycache__
