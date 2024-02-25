@@ -1,0 +1,12 @@
+{
+  "name": "spotify---de",
+  "version": "1.0.0",
+  "description": "View my spotify stats, top artists, etc in this dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
